@@ -1,0 +1,13 @@
+{
+	"id": "ma2.starRating",
+	"name": "ma2.starRating",
+	"description" : "star rating widget",
+	"author": "kazuhiro matsukubo",
+	"version": "1.0",
+	"copyright":"Copyright (c) 2013",
+	"license":"Apache License, Version 2.0",
+	"min-alloy-version": "1.0",
+	"min-titanium-version":"3.1",
+	"tags":"rating",
+	"platforms":"ios"
+}

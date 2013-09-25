@@ -1,0 +1,25 @@
+".container": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+},
+
+"#touch": {
+	height: Ti.UI.FILL,
+	zIndex: 1
+},
+
+"#stars": {
+	left: 30,
+	right: 30,
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	layout: "horizontal",
+	zIndex: 0
+},
+
+".star": {
+	left: 5,
+	width: 30,
+	height: 30,
+	image: WPATH("images/on.png")
+}

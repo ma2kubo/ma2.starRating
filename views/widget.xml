@@ -1,0 +1,6 @@
+<Alloy>
+	<View class="container">
+		<View id="touch" onTouchmove="move" onTouchstart="start" />
+		<View id="stars" />
+	</View>
+</Alloy>
